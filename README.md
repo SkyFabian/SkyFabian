@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @SkyFabian
-- 👀 I’m interested in my future so i decided to become a Developer
-- 🌱 I’m currently learning Dart (Flutter)
-- 💞️ I’m looking to collaborate on a girlfriend
-- 📫 How to reach me E-Mail: plasch.fabian@icloud.com
+
